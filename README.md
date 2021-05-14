@@ -199,27 +199,3 @@ $cd backend
 $npm test
 ```
 
-## Project Management
-
----
-
-[Task Breakdown and Weekly Meeting Minutes](https://www.notion.so/Weekly-Summary-Task-Breakdown-3f43d9d145724cce8e4b9b3f50751686)
-
-Git commit history [here](https://gitlab.com/tuandinh/group-2-rose-rabbit/-/commits/master)
-
----
-
-We found frequent interactions between team members as the most effective way to manage this project. To get the most up to date status, resolve issues, and plan, we used two communication methods:
-
-1) Slack - Slack is a messaging/ collaboration tool that made working together very easily. It is the go-to tool we used for our day-to-day communication. Some of the use cases include:
-
-- sharing demo videos of a completed feature
-- sharing useful resources found on the internet
-- discuss bugs found in the application
-- get feedback on different implementation  ideas
-
-2) Face-to-face(F2F) - F2F meetings were either in-person or on Zoom. We found F2F meetings to be an effective way to discuss medium-to-long-term goals of the project or any conversations that require the consensus of the whole team. For example, if a feature requires two or more people to develop, we found conversations in person helps us plan resources and time quicker than communicating via a messaging app. 
-
-In addition to goal setting, we also found F2F meetings to be an effective way to measure progress. Our development progress is measured weekly on the tasks completed. This allows us to estimate the completion timeline quite accurately.
-
-By asking "what did we do last week" and "what will do next week" we produced meeting minutes which you can find [here](https://www.notion.so/Weekly-Summary-Task-Breakdown-3f43d9d145724cce8e4b9b3f50751686).
